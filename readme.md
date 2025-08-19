@@ -48,20 +48,11 @@ Create a simple scheduling system for booking consultations with professionals. 
 
 ---
 
-### Optional (Nice to Have)
-
-- Automated tests (RSpec or MiniTest)
-- Seeds to populate users and professionals
-- Use of scopes or services
-- Use of serializers (Jbuilder, FastJSON, etc.)
-
----
-
 ### Submission
 
-- Create a public or private GitHub repo and share the link  
+- Create a public or private GitHub repo and share the link via form 
 - Include a README with setup instructions  
-- Deadline: 3 days after receiving the challenge (can be extended upon request)
+- Deadline: 2 days after receiving the challenge (can be extended upon request)
 
 ---
 
